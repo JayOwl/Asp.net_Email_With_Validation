@@ -20,7 +20,7 @@ namespace WebApplication1.BusinessLogic
             
             // Use credentials of the Mail account that you created with the steps above.
             const string FROM        = "joel@jamped.com"; 
-            const string FROM_PWD    = "joejob08*";                
+            const string FROM_PWD    = "******";                
             const bool   USE_HTML    = true;
 
             // Get the mail server obtained in the steps described above.
